@@ -2,6 +2,7 @@ import type { Metadata } from "next";
 import { Inter } from "next/font/google";
 import "./globals.css";
 import { GameProvider } from "@/context/GameContext";
+import { Analytics } from "@vercel/analytics/react";
 
 const inter = Inter({ subsets: ["latin"] });
 
@@ -22,6 +23,7 @@ export default function RootLayout({
           <main className="min-h-screen bg-stone-50 text-stone-900">
             {children}
           </main>
+          <Analytics />
         </GameProvider>
       </body>
     </html>
