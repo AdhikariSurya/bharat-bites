@@ -1,0 +1,92 @@
+[
+  {
+    "id": "dish_01",
+    "name": "Vada Pav",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/4/4e/Vada_Pav-Indian_street_food.JPG",
+    "origins": ["Maharashtra"],
+    "ingredients": ["Potato", "Gram flour", "Chili", "Garlic", "Bun (Pav)"],
+    "description": "A deep-fried potato dumpling placed inside a bread bun (pav) sliced almost in half through the middle.",
+    "wikiLink": "https://en.wikipedia.org/wiki/Vada_pav"
+  },
+  {
+    "id": "dish_02",
+    "name": "Hyderabadi Biryani",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/5/53/Hyderabadi_Chicken_Biryani.jpg",
+    "origins": ["Telangana", "Andhra Pradesh"],
+    "ingredients": ["Basmati rice", "Chicken/Goat", "Yoghurt", "Lemon", "Saffron"],
+    "description": "A style of biryani from Hyderabad, made with basmati rice and meat and cooked with the dum pukht method.",
+    "wikiLink": "https://en.wikipedia.org/wiki/Hyderabadi_biryani"
+  },
+  {
+    "id": "dish_03",
+    "name": "Butter Chicken",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/3c/Chicken_makhani.jpg",
+    "origins": ["Delhi", "Punjab"],
+    "ingredients": ["Chicken", "Butter", "Tomato puree", "Cream", "Spices"],
+    "description": "A curry of chicken in a spiced tomato, butter and cream sauce. It originated in the 1950s in Delhi.",
+    "wikiLink": "https://en.wikipedia.org/wiki/Butter_chicken"
+  },
+  {
+    "id": "dish_04",
+    "name": "Dhokla",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/0/0b/Dhokla.jpg",
+    "origins": ["Gujarat"],
+    "ingredients": ["Gram flour (Besan)", "Semolina", "Yoghurt", "Lemon juice"],
+    "description": "A vegetarian culinary dish that is found mainly in the Indian state of Gujarat and parts of adjacent states.",
+    "wikiLink": "https://en.wikipedia.org/wiki/Dhokla"
+  },
+  {
+    "id": "dish_05",
+    "name": "Rasgulla",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/e/e8/Rasgulla_01.jpg",
+    "origins": ["West Bengal", "Odisha"],
+    "ingredients": ["Chhena", "Semolina", "Sugar syrup"],
+    "description": "A syrupy dessert popular in the Indian subcontinent and regions with South Asian diaspora. It is made from ball-shaped dumplings of chhena and semolina dough.",
+    "wikiLink": "https://en.wikipedia.org/wiki/Rasgulla"
+  },
+  {
+    "id": "dish_06",
+    "name": "Litti Chokha",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/31/Litti_Chokha.jpg",
+    "origins": ["Bihar", "Jharkhand"],
+    "ingredients": ["Whole wheat flour", "Sattu (Roasted gram flour)", "Eggplant", "Potato", "Tomato"],
+    "description": "A whole wheat dough ball stuffed with sattu (roasted chickpea flour) and roasted over coal or cow dung cakes.",
+    "wikiLink": "https://en.wikipedia.org/wiki/Litti_(cuisine)"
+  },
+  {
+    "id": "dish_07",
+    "name": "Idli",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/1/11/Idli_Sambar_Coconut_Chutney.jpg",
+    "origins": ["Tamil Nadu", "Karnataka"],
+    "ingredients": ["Rice", "Urad dal (Black gram)", "Fenugreek seeds"],
+    "description": "A type of savoury rice cake, originating from the Indian subcontinent, popular as breakfast foods in Southern India.",
+    "wikiLink": "https://en.wikipedia.org/wiki/Idli"
+  },
+  {
+    "id": "dish_08",
+    "name": "Rogan Josh",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/a/a2/Rogan_Josh.jpg",
+    "origins": ["Jammu and Kashmir"],
+    "ingredients": ["Lamb/Mutton", "Oil/Ghee", "Kashmiri chilies", "Alkanet root"],
+    "description": "An aromatic curried meat dish of Persian or Kashmiri origin. It is made with red meat, usually lamb or goat.",
+    "wikiLink": "https://en.wikipedia.org/wiki/Rogan_josh"
+  },
+  {
+    "id": "dish_09",
+    "name": "Momo",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/a/a1/Momo_nepal.jpg",
+    "origins": ["Sikkim", "West Bengal", "Arunachal Pradesh"],
+    "ingredients": ["Flour", "Meat/Vegetable filling", "Steamed"],
+    "description": "A type of steamed filled dumpling, popular across the Himalayan regions of East-South Asia and Southeast Asia.",
+    "wikiLink": "https://en.wikipedia.org/wiki/Momo_(food)"
+  },
+  {
+    "id": "dish_10",
+    "name": "Dal Baati Churma",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/4/4b/Dal_Bati_Churma.jpg",
+    "origins": ["Rajasthan"],
+    "ingredients": ["Lentils (Dal)", "Wheat flour (Baati)", "Ghee", "Sugar"],
+    "description": "A traditional dish of Rajasthan, consisting of baati (hard wheat rolls) served with dal (lentils) and churma (coarsely ground wheat crushed and cooked with ghee and sugar).",
+    "wikiLink": "https://en.wikipedia.org/wiki/Dal_baati"
+  }
+]
